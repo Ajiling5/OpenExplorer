@@ -21,7 +21,7 @@ Open File,Open Source,OpenExplorer.
 - **ADK PE / WinPE** —— WinXShell 文件管理器打不开时
 - **精简 PE** —— 没有 `explorer.exe`、`sihost.exe` 时
 - **图形 Shell 崩溃的 Windows** —— `dwm.exe`、`sihost.exe` 被删除或损坏时
-- **正常 Windows** —— Win11 24H2 运行框砍掉“浏览”按钮后，可作为替代方案
+- **正常 Windows** —— Win11运行框砍掉“浏览”按钮后，可作为替代方案
 
 ---
 
