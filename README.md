@@ -13,8 +13,8 @@ Open File,Open Source,OpenExplorer.
 
 | 版本 | 源文件 | 适用环境 |
 |---|---|---|
-| **IFileOpenDialog 版** | `main.c` | 正常 Windows，支持完整 Shell 上下文菜单 |
-| **GetOpenFileNameW 版（PE Edition）** | `main_pe.c` | ADK PE、精简 PE、脱衣 Win11 |
+| **IFileOpenDialog 版** | `OpenExplorer.c` | 正常 Windows，支持完整 Shell 上下文菜单 |
+| **GetOpenFileNameW 版（PE Edition）** | `OpenExplorerPE.c` | ADK PE、精简 PE |
 
 在以下环境中，`OpenExplorer` 可以作为文件选择器使用：
 
